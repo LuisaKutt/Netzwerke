@@ -1,1 +1,19 @@
 # Netzwerke
+ab	Annalena Baerbock	Grüne
+agl	Alexander Graf Lambsdorff 	FDP
+am	Andrij Melnyk	NA
+cl	Christian Lindner	FDP
+cs	Constanze Stelzenmüller	NA
+eg	Egon Ramms	NA
+ft	Frans Timmermans	NA
+kd	Kristina Dunz	NA
+ks	Karl Schlögel	NA
+lk	Lars Klingbeil	SPD
+lm	Ljudmyla Melnyk	NA
+nr	Norbert Röttgen	CDU
+sw	Sahra Wagenknecht	Linke
+uvdl	Ursula von der Leyen	CDU
+rh	Robert Habeck	Grüne
+cm	Claudia Major	NA
+kp	Katja Petrowskaja	NA
+rk	Roderich Kiesewetter	CDU
